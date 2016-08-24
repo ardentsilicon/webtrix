@@ -685,7 +685,7 @@ ul.external li a:hover {
 }
 
 .testimonial-item > div:after {
-    background-image: url("../img/icons/quotes.png");
+    background-image: url("../img/quotes.png");
     background-position: -58px 0;
     background-repeat: no-repeat;
     bottom: -50px;
